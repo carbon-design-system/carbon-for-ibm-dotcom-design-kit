@@ -17,7 +17,8 @@ All of the designs within the Carbon for IBM.com Design Kit meet the <a href="ht
 ### Designers
 
 * The Carbon for IBM.com Design Kit now uses the new typeface **IBM Plex**. It is open sourced and free to download from the [IBM GitHub repo](https://github.com/IBM/plex) 
-* Download the latest version of the Carbon for IBM.com Design Kit by clicking on the latest kit file in this repo (`Carbon_Design-Kit_x.x.x.sketch`) then on the next age click the download button or “View Raw”. (Note: downloading from the main repo page will download the entire repo including previous version)
+* The Carbon for IBM.com Design Kit is currently available as a closed pilot. If you are an adopter that is migrating
+to Carbon in your roadmap, you can reach out to us via Slack at `#ibm-digital-design`, or [open an issue here](https://github.com/carbon-design-system/carbon-for-ibm-design-kit/issues).
 
 * The Design Kit requires having the latest version of <a href="https://www.sketchapp.com/">Sketch</a> installed.
 * Open the Design Kit file in Sketch
@@ -26,16 +27,16 @@ All of the designs within the Carbon for IBM.com Design Kit meet the <a href="ht
 * Updates to the Design Kit will be posted in our change log, so check back frequently for changes!
 
 ### Developers: 
-Our Carbon Components <a href="http://www.carbondesignsystem.com/getting-started/developers">Getting Started</a> guide has all the instructions you need to get up and running our code base. 
+Our IBM.com Library is available at our <a href="http://github.com/carbon-design-system/ibm-dotcom-library">Github repo</a>. Website with developer guidelines is coming soon! 
 
 
 ## 🌟 Contributing
 
 ### Design
-Follow the steps in our [Contributing guidelines](https://github.com/carbon-design-system/carbon-design-kit/blob/master/CONTRIBUTING.md) to contribute to the Carbon Design System.
+Follow the steps in our [Contributing guidelines](https://github.com/carbon-design-system/carbon-for-ibm-design-kit/blob/master/CONTRIBUTING.md) to contribute to the Carbon Design System.
 
 ### Code
-For instructions on contributing to our component library please read our <a href="https://github.com/carbon-design-system/carbon-components/blob/master/docs/contributing.md">contributing docs</a> for Carbon Components. 
+For instructions on contributing to our IBM.com library please read our <a href="https://github.com/carbon-design-system/ibm-dotcom-library/blob/master/.github/CONTRIBUTING.md">contributing docs</a>. 
 
 
 ## 💻 Workflow
