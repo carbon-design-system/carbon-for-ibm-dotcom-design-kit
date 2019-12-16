@@ -9,7 +9,7 @@ assignees: ljcarot, wonilsuhibm, oliviaflory
 
 Thanks for your interest in the IBM.com Design kits!
 
-We are in a closed adoption phase at the moment, please answer the following questions to help us better understand your project and someone from the team will reach out to you soon.
+We are in a closed adoption phase at the moment. Please answer the following questions to help us better understand your interest. Someone from Carbon for IBM.com will reach out to you soon regarding your request for access.
 
 > Which team are you on?
 
