@@ -17,14 +17,14 @@ We promise to extend courtesy and respect to everyone involved in this project, 
 
 If any member of the community violates this Code of Conduct, the maintainers of Carbon for IBM.com may take action, including removing issues, comments, and PRs or blocking accounts, as deemed appropriate.
 
-If you are subjected to or witness unacceptable behavior, or have any other concerns, please communicate with us directly via Slack at `#ibm-digital-design`.
+If you are subjected to or witness unacceptable behavior, or have any other concerns, please communicate with us directly via Slack at `#carbon-for-ibm-dotcom`.
 
 ### Slack
 1. Please, no `@here` or `@channel` unless it is a bug that is **breaking production code.** We have communities in many different time zones, and we would hate to disrupt someone not at the office.
 2. There's no need to notify the Carbon for IBM.com team that you have made an issue in Carbon for IBM.com's GitHub repositories. We check these several times a day, so we promise we'll address your issue as soon as we can. 
 3. Reserve direct messages for sensitive discussions, such as privacy, legal, or HR reasons. Otherwise, we encourage posting in public channels so people with the same questions can benefit.
 4. If you have a pressing bug fix, it is best to make a PR directly to get your issues addressed.  
-5. `#ibm-digital-design`: Please post any design questions with an in-context screen shot (i.e. screen shot of the whole UI you are designing) with background as to what you are trying to accomplish in this flow. We welcome in-progress work to get community design feedback as well. 
+5. `#carbon-for-ibm-dotcom`: Please post any design questions with an in-context screen shot (i.e. screen shot of the whole UI you are designing) with background as to what you are trying to accomplish in this flow. We welcome in-progress work to get community design feedback as well. 
 
 
 

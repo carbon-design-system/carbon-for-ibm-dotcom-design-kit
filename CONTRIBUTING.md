@@ -4,7 +4,7 @@ The Carbon for IBM.com team is committed to maintaining consistent, quality guid
 
 If you're interested in contributing please follow the guidelines below.
 
-If you have any questions, reach out to us on Slack at `#ibm-digital-design`.
+If you have any questions, reach out to us on Slack at `#carbon-for-ibm-dotcom`.
 
 ## Contributing process
 ### 1. Submit an issue
