@@ -20,11 +20,10 @@ All of the designs within the Carbon for IBM.com Design Kit meet the <a href="ht
 * The Carbon for IBM.com Design Kit is currently available as a closed pilot. If you are an adopter that is migrating
 to Carbon in your roadmap, you can reach out to us via Slack at `#carbon-for-ibm-dotcom`, or [open an issue here](https://github.com/carbon-design-system/carbon-for-ibm-dotcom-design-kit/issues).
 
-* The Design Kit requires having the latest version of <a href="https://www.sketchapp.com/">Sketch</a> installed.
-* Open the Design Kit file in Sketch
-* Core visual styles, components, and templates are broken out into respective pages
+* The Design Kit requires having the latest version of Figma installed.
+* In a new Figma File, open the libraries overlay and enable `Carbon for IBM.com v2 BETA` from the list.
 * Use the components and core visual styles to build out your design
-* Updates to the Design Kit will be posted in our change log, so check back frequently for changes!
+* Updates to the Design Kit will be announced in your Figma files. Be sure to update to get latest versions of components and patterns.
 
 ### Developers: 
 Carbon for IBM.com is available at our <a href="http://github.com/carbon-design-system/carbon-for-ibm-dotcom">Github repo</a>. Check out https://www.ibm.com/standards/web/carbon-for-ibm-dotcom for more information. 
@@ -41,8 +40,8 @@ For instructions on contributing to our IBM.com library please read our <a href=
 
 ## 💻 Workflow
 
-### Sketch Libraries
-Sketch Libraries is a new Sketch feature that allows designers to share Symbols across documents and easily update to the latest symbol changes. Read the [Sketch Libraries Overview wiki](https://github.com/carbon-design-system/carbon-design-kit/wiki/Sketch-Libraries-Overview) to learn more about how to use and implement Sketch Libraries in your workflow.
+### Figma libraries
+Our design kit is maintained inside Figma, and is accessible to internal IBM employees who have a Figma license. You can read more about enabling the Figma library on the [Carbon for IBM.com website](https://www.ibm.com/standards/carbon/designing/design-kit).
 
 ### Plugins
 The Carbon for IBM.com Design Kit now comes with the Sketch Palettes plugin which allows you to import Carbon specific palettes into your Sketch files. There are four Carbon palettes (a Carbon default palette and three data vis palettes) included with the Carbon for IBM.com Design Kit download. We also have a [wiki](https://github.com/carbon-design-system/carbon-design-kit/wiki/Suggested-Sketch-Plugins) of suggested Sketch plugins to help make your design workflow more efficient.
